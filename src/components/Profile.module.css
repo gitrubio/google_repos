@@ -1,0 +1,9 @@
+.hidden {
+    @media (max-width: 48em) {
+        display: none;
+      }
+}
+
+.profile {
+   background-color: red;
+}
